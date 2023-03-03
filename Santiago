@@ -104,6 +104,10 @@ pantalla.setText("");
         operador="/";
         pantalla.setText("");  
     }                                        
+ 
+ // Reto de hacer que funcione el punto 
+ 
+ 
  private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {                                          
        if(!(pantalla.getText().contains("."))){
            pantalla.setText(pantalla.getText()+".");
