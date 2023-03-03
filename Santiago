@@ -105,11 +105,7 @@ pantalla.setText("");
         pantalla.setText("");  
     }                                        
 
-    private void jButton18ActionPerformed(java.awt.event.ActionEvent evt) {                                          
-       if(!(pantalla.getText().contains("."))){
-           pantalla.setText(pantalla.getText()+".");
-       }
-    }                                         
+    
 
    
     
